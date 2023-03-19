@@ -1,0 +1,22 @@
+#grafiquin{
+    position: relative;
+    margin-top: 20%;
+    z-index: 2;
+    margin-left: 33%;
+
+}
+main{
+    position: absolute;
+    z-index: 1;
+    display: inline;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+#valor_aproximado{
+    size: 40px;
+    color: cyan;
+}
+h1.hacheuno{
+    display: block;
+    text-align: center;
+}
